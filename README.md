@@ -1,1 +1,3 @@
 # GitFlowModelis
+
+Ričards Lazda
